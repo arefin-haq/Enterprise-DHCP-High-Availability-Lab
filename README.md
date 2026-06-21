@@ -2,7 +2,7 @@
 
            ENTERPRISE DHCP HIGH AVAILABILITY (FAILOVER) LAB
 
-![Network Diagram](https://raw.githubusercontent.com/arefin-haq/Enterprise-DHCP-High-Availability-Lab/main/diagrams/Enterprise_DHCP.png)
+
 OVERVIEW
 This laboratory project focuses on building a robust and resilient 
 DHCP environment using RHEL 9.8. By deploying a pair of DHCP 
