@@ -1,4 +1,6 @@
 # Enterprise-DHCP-High-Availability-Lab
+
+
 OVERVIEW
 This laboratory project focuses on building a robust and resilient 
 DHCP environment using RHEL 9.8. By deploying a pair of DHCP 
@@ -89,7 +91,7 @@ OBJECTIVE
    - Failover Test: Secondary correctly takes over when Primary is down.
    - Recovery: Automatic synchronisation returns to 'Both servers normal'.
    
-   * Note: * Note: The architecture design presented in this lab is an original 
+   * Note: The architecture design presented in this lab is an original 
      work, conceptualised and implemented independently, without any 
      external assistance.
 ======================================================================
