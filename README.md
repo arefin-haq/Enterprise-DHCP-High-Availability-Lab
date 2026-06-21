@@ -15,7 +15,7 @@ OBJECTIVE
 - Implement DHCP Failover protocol (Primary/Secondary roles).
 - Achieve network redundancy to prevent service outages.
 - Distribute DHCP pools efficiently across two servers.
-- Automate state synchronization and client lease management.
+- Automate state synchronisation and client lease management.
 - Validate system reliability through simulated failure testing.
 
 1. GLOBAL SETTINGS (Applied to both servers)
