@@ -1,1 +1,1 @@
-# Eeterprise-DHCP-High-Availability-Lab
+# Enterprise-DHCP-High-Availability-Lab
