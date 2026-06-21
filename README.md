@@ -1,7 +1,7 @@
 ```text
-======================================================================
+
            ENTERPRISE DHCP HIGH AVAILABILITY (FAILOVER) LAB
-======================================================================
+
 
 OVERVIEW
 This laboratory project focuses on building a robust and resilient 
