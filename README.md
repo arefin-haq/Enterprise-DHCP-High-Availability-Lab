@@ -1,7 +1,6 @@
 ```text
 
            ENTERPRISE DHCP HIGH AVAILABILITY (FAILOVER) LAB
-https://github.com/arefin-haq/Enterprise-DHCP-High-Availability-Lab/blob/main/diagram/Enterprise_DHCP.png
 
 OVERVIEW
 This laboratory project focuses on building a robust and resilient 
