@@ -3,7 +3,7 @@
            ENTERPRISE DHCP HIGH AVAILABILITY (FAILOVER) LAB
 
 
-![Network Diagram](diagrams/Enterprise_DHCP.drawio.png)
+![Network Diagram](diagrams/Enterprise_DHCP.png)
 
 
 
